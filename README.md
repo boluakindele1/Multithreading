@@ -1,1 +1,2 @@
-# Multithreading
+I built this project during winter break of my sophomore year after taking Object-Oriented Programming. One of the mostr intriguing topics we covered was multithreading and I wanted to build a simple project to test my understanding of it.
+1. When the program runs, it prints a message followed by the thread index. The user decides the number of threads created, how many times the message repeats, and the delay between each thread. The program uses and array of runnable objects and an array of threads.
